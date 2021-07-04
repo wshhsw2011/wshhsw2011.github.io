@@ -1,7 +1,6 @@
 ironsrc.com, 189346, Direct
 mopub.com, 8994376f2eaf4e58bc0263825a413ac9, DIRECT, 74b46c0ea83967ca
 google.com, pub-1727486051830367, DIRECT, f08c47fec0942fa0
-
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
