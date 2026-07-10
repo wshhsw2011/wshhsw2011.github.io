@@ -1,12 +1,14 @@
- {
-    "applinks": {
-        "apps": [],
-        "details": [
-        	{
-            	"appID": "U34QHJ6D76.com.abnormal.love",
-            	"paths": ["/app/*"]
-            }
-         
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "U34QHJ6D76.com.abnormal.love",
+        "paths": [
+          "/app/*",
+          "/qq_conn/123456789/*"
         ]
-    }
+      }
+    ]
+  }
 }
